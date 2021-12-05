@@ -5,6 +5,6 @@
 [node name="Piso" type="TileMap"]
 scale = Vector2( 0.5, 0.5 )
 tile_set = ExtResource( 1 )
-cell_size = Vector2( 77, 77 )
+cell_size = Vector2( 75, 75 )
 format = 1
 tile_data = PoolIntArray( 327691, 0, 0, 458752, 0, 0, 458753, 0, 0, 458754, 0, 0, 524288, 0, 0 )
